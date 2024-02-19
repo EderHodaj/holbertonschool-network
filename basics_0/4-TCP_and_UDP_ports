@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 # Tcp/udp listing socket
-netstat -l
+netstat -lp
